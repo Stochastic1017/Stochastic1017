@@ -1,6 +1,6 @@
 # Welcome to My Data Science and Machine Learning Journey! 📊🧠
 
-Hello, I'm Sudhir S., a passionate data scientist who loves machine learning, and deep learning. My journey in this exciting field has been fueled by my fascination with mathematics and statistics, which I believe form the foundation of these technologies. I'm constantly exploring new ways to unlock insights from data and create intelligent systems that can make a positive impact on the world.
+Hello, I'm Shrivats S., a passionate data scientist who loves machine learning, and deep learning. My journey in this exciting field has been fueled by my fascination with mathematics and statistics, which I believe form the foundation of these technologies. I'm constantly exploring new ways to unlock insights from data and create intelligent systems that can make a positive impact on the world.
 
 ## My Interests
 
