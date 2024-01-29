@@ -15,6 +15,7 @@ Hello, I'm Sudhir S., a passionate data scientist who loves machine learning, an
 
 Here are some of my notable projects:
 
+- [Outlier Detection and De-noising for Neural Network Language Classification](https://github.com/Stochastic1017/Speech-Enhancement_De-Noising)
 - [Finding the Cosmic Needle: Unraveling cB58 Resemblance in a Galactic Haystack Using High-Throughput Computing](https://github.com/Stochastic1017/Identifying-cB58-Lyman-Break-Twins)
 - [Supervised machine learning model to predict gender based on first names](https://github.com/Stochastic1017/Predicting-Gender)
 - [Multivariate Optimization in R](https://github.com/Stochastic1017/Multivariate-optimization-in-R)
