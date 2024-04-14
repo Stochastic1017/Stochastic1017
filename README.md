@@ -1,15 +1,6 @@
-# Welcome to My Data Science and Machine Learning Journey! 📊🧠
+# Welcome to My Mathematics, Statistics, and Data Science Journey!
 
-Hello, I'm Shrivats Sudhir, a passionate data scientist who loves machine learning, and deep learning. My journey in this exciting field has been fueled by my fascination with mathematics and statistics, which I believe form the foundation of these technologies. I'm constantly exploring new ways to unlock insights from data and create intelligent systems that can make a positive impact on the world.
-
-## My Interests
-
-- 📊 Data Science: Analyzing and interpreting data to extract meaningful insights.
-- 🤖 Machine Learning: Developing predictive models and algorithms.
-- 🌐 Deep Learning: Exploring neural networks for complex tasks.
-- 🧮 Mathematics: Leveraging mathematical concepts to solve real-world problems.
-- 📈 Statistics: Applying statistical methods to validate hypotheses and make informed decisions.
-
+Hello, I'm Shrivats Sudhir, a passionate data scientist who loves data and numbers. My journey in this exciting field has been fueled by my fascination with mathematics and statistics, which I believe form the foundation of these technologies. I'm constantly exploring new ways to unlock insights from data and create intelligent systems that can make a positive impact on the world.
 
 ## My Projects
 
