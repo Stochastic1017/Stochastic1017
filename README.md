@@ -1,6 +1,6 @@
 # Welcome to My Mathematics, Statistics, and Data Science Journey!
 
-I'm a passionate data scientist who loves data and numbers! My journey in this exciting field has been fueled by my fascination with mathematics and statistics, which I believe form the foundation of these technologies. I'm constantly exploring new ways to unlock insights from data and create intelligent systems that can make a positive impact on the world.
+I'm a passionate about ANYTHING related to data and numbers! My journey in this exciting field has been fueled by my fascination with mathematics and statistics, which I believe form the foundation of these technologies. I'm constantly exploring new ways to unlock insights from data and create intelligent systems that can make a positive impact on the world.
 
 ## My Projects
 
