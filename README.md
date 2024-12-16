@@ -7,16 +7,16 @@ I'm a passionate about ANYTHING related to data and numbers! My journey in this 
 Here are some of my notable projects:
 
 - [**Clustering Spotify Podcasts with NLP-Driven Insights**](https://github.com/Stochastic1017/Spotify-Podcast-Clustering)
-  - Scraped $\approx$ 284,481 episode details from 818 podcasts using Selenium and Spotify API pipeline.
-  - Preprocessed and tokenized podcast descriptions with NLTK, including lemmatization and stopword removal.
+  - Scraped $\approx$ *284,481* episode details from *818* podcasts using Selenium and Spotify API pipeline.
+  - Preprocessed and tokenized podcast descriptions with **NLTK**, including lemmatization and stopword removal.
   - Developed metrics to quantify directional, overlap, diversity similarities, and engineered recommendation system.
   - Deployed a **Dash** app for podcast clustering and personalized recommendations.
     
 - [**Predicting Flight Delays and Cancellations: An Integrated Analysis of Airport Data and Weather Data**](https://github.com/Stochastic1017/Airport-Weather-Prediction)
     - Automated scraping of 23 GB airport and 30 GB weather data using **Selenium**.
     - Utilized reverse geocoding, Haversine-based, and UTC-normalized alignments to join datasets.
-    - Trained random forest models, achieving $\approx$ 25 min test RMSE for delays and $\approx$ 98% test accuracy for cancellations.
-    - Developed scalable workflows on Google Cloud, and deployed interactive web-app using Dash.
+    - Trained random forest models, achieving $\approx$ *25* min test RMSE for delays and $\approx$ *98%* test accuracy for cancellations.
+    - Developed scalable workflows on Google Cloud, and deployed interactive web-app using **Dash**.
       
 - [**Modeling and Forecasting Walmart Stock Prices: A Comparative Analysis of ARMA and GARCH Approaches**](https://github.com/Stochastic1017/Walmart-Stock-Forecasting)
     - Leveraged ARIMA and GARCH models using **tseries** and **fGarch** in **R** to analyze Walmart stock price volatility.
