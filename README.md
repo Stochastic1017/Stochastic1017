@@ -120,7 +120,3 @@ Here are some of my notable projects:
   <a href="#"><img src="https://img.shields.io/badge/SageMath-FFB000?style=for-the-badge"></a>
   <a href="#"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></a>
 </p>
-
-## If you checked out my entire profile, here is a fun Conway Game-of-life Board for fun!
-
-![](https://github.com/Stochastic1017/Stochastic1017/blob/main/github_intro/conway_game_of_life/conways_game_of_life_all_patterns.gif)
