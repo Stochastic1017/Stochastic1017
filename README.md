@@ -120,3 +120,7 @@ Here are some of my notable projects:
   <a href="#"><img src="https://img.shields.io/badge/SageMath-FFB000?style=for-the-badge"></a>
   <a href="#"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></a>
 </p>
+
+## Resume and CV
+
+
