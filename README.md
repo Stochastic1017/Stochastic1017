@@ -12,3 +12,7 @@ Here are some of my notable projects:
 - [Multivariate Optimization in R](https://github.com/Stochastic1017/Multivariate-optimization-in-R)
 - [Predicting Life Expectancy Using Various Fundamental Global Demographical, Economic, Environmental, and Health Indicators](https://github.com/Stochastic1017/Predicting-Life-Expectancy)
 - [Studying the effect of caffeine on pulse rate](https://github.com/Stochastic1017/Caffeine-effect-on-pulse-rate)
+
+## Conway Game-Of-Life for fun!
+
+![](https://github.com/Stochastic1017/Stochastic1017/blob/main/github_intro/conway_game_of_life/conways_game_of_life_all_patterns.gif)
