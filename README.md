@@ -1,6 +1,42 @@
-# Welcome to My Mathematics, Statistics, and Data Science Journey!
 
-I'm a passionate about ANYTHING related to data and numbers! My journey in this exciting field has been fueled by my fascination with mathematics and statistics, which I believe form the foundation of these technologies. I'm constantly exploring new ways to unlock insights from data and create intelligent systems that can make a positive impact on the world.
+<div align="left" style="background: linear-gradient(135deg, #1F1F1F 0%, #121212 100%); padding: 30px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.7); max-width: 900px; margin: 0 auto;">
+  <h1 style="color: #C5050C; font-family: 'Fira Code', monospace; font-size: 2.5em; margin-bottom: 10px; text-shadow: 0 0 10px rgba(197, 5, 12, 0.5);">Welcome to my GitHub page! I am Shrivats Sudhir</h1>
+  <div style="color: #ffffff; font-family: 'Fira Code', monospace; font-size: 1.2em; margin-bottom: 20px; line-height: 1.6;">
+    <p style="margin: 10px 0; font-weight: bold; font-size: 1.4em; text-shadow: 0 0 5px rgba(255, 255, 255, 0.2);">
+      <b> MS in Statistics: Statistics and Data Science | BS in Mathematics: Data and Risk Analysis & BS in Statistics </b>
+    </p>
+  </div>
+  <a href="https://github.com/Stochastic1017">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=4CAF50&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=800&height=80&lines=Advanced+Statistical+Modeling+and+Inferences;Bayesian+Statistics;Statistical+Learning;Machine+Learning+and+Statistical+Pattern+Classification;Deep+Learning+and+Generative+Models;Linear+Randomized+Algorithms;Linear+Optimization;Dynamical+Systems+Stochastic+Modeling+and+Prediction;Financial+Statistics;Statistical+Computing;Cloud+Computing;Combinatorics;Real+Analysis,+Modern+Algebra,+and+Topology" alt="Typing Animation" />
+  </a>
+</div>
+
+
+## GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stochastic1017&theme=noctis_minimus&hide=html,jupyter%20notebook&layout=compact" alt="Most Commit Language">
+    </td>
+    <td colspan="2">
+      <img src="https://streak-stats.demolab.com?user=Stochastic1017&theme=noctis_minimus&hide_border=true" alt="GitHub Streak">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stochastic1017&bg_color=1F1F1F&color=FFFFFF&line=4CAF50&point=F85D7F&area=true&hide_border=true" alt="Activity Graph">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Stochastic1017&theme=noctis_minimus&hide_border=true" alt="Repos Per Commit">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stochastic1017&theme=noctis_minimus&hide_border=true" alt="Profile Details Summary">
+    </td>
+  </tr>
+</table>
 
 ## My Projects
 
@@ -85,6 +121,6 @@ Here are some of my notable projects:
   <a href="#"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></a>
 </p>
 
-## Conway Game-Of-Life for fun!
+## If you checked out my entire profile, here is a fun Conway Game-of-life Board for fun!
 
 ![](https://github.com/Stochastic1017/Stochastic1017/blob/main/github_intro/conway_game_of_life/conways_game_of_life_all_patterns.gif)
