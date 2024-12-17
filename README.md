@@ -3,7 +3,7 @@
   <h1 style="color: #C5050C; font-family: 'Fira Code', monospace; font-size: 2.5em; margin-bottom: 10px; text-shadow: 0 0 10px rgba(197, 5, 12, 0.5);">Welcome to my GitHub page! I am Shrivats Sudhir</h1>
   <div style="color: #ffffff; font-family: 'Fira Code', monospace; font-size: 1.2em; margin-bottom: 20px; line-height: 1.6;">
     <p style="margin: 10px 0; font-weight: bold; font-size: 1.4em; text-shadow: 0 0 5px rgba(255, 255, 255, 0.2);">
-      <b> MS in Statistics: Statistics and Data Science | BS in Mathematics and BS in Statistics </b>
+      <b> MS in Statistics | BS in Mathematics and Statistics </b>
     </p>
   </div>
   <a href="https://github.com/Stochastic1017">
