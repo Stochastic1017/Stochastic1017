@@ -125,12 +125,12 @@ Here are some of my notable projects:
 <div align="center" style="margin: 30px;">
   
   <!-- Resume Button -->
-  <a href="https://raw.githubusercontent.com/Stochastic1017/Stochastic1017/blob/main/resume_cv/Shrivats_Sudhir_Resume.pdf" target="_blank">
+  <a href="https://github.com/Stochastic1017/Stochastic1017/blob/main/resume_cv/Shrivats_Sudhir_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-1--Page-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
   </a>
   
   <!-- Cover Letter Button -->
-  <a href="https://your-link-to-cv.com/cv.pdf" target="_blank" style="margin-left: 10px;">
+  <a href="https://github.com/Stochastic1017/Stochastic1017/blob/main/resume_cv/Shrivats_Sudhir_Cover_Letter.pdf" target="_blank" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/CV-2--Page-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Cover Letter">
   </a>
 </div>
