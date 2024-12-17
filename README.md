@@ -121,7 +121,7 @@ Here are some of my notable projects:
   <a href="#"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></a>
 </p>
 
-## Resume and CV
+## **Resume and Cover Letter**
 <div align="center" style="margin: 30px;">
   
   <!-- Resume Button -->
@@ -131,8 +131,9 @@ Here are some of my notable projects:
   
   <!-- Cover Letter Button -->
   <a href="https://github.com/Stochastic1017/Stochastic1017/blob/main/resume_cv/Shrivats_Sudhir_Cover_Letter.pdf" target="_blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/badge/CV-2--Page-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Cover Letter">
+    <img src="https://img.shields.io/badge/Cover%20Letter-2--Page-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Cover Letter">
   </a>
+  
 </div>
 
 
