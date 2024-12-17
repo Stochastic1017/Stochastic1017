@@ -122,5 +122,18 @@ Here are some of my notable projects:
 </p>
 
 ## Resume and CV
+<div align="center" style="margin: 30px;">
+  
+  <!-- Resume Button -->
+  <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Stochastic1017/Stochastic1017/blob/main/resume_cv/Shrivats_Sudhir_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-1--Page-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
+  </a>
+  
+  <!-- Cover Letter Button -->
+  <a href="https://your-link-to-cv.com/cv.pdf" target="_blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/CV-2--Page-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Cover Letter">
+  </a>
+</div>
+
 
 
