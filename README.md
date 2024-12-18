@@ -54,7 +54,7 @@ Here are some of my notable projects:
     - Trained random forest models, achieving $\approx$ *25* min test RMSE for delays and $\approx$ *98%* test accuracy for cancellations.
     - Developed scalable workflows on Google Cloud, and deployed interactive web-app using **Dash**.
       
-- [**Modeling and Forecasting Walmart Stock Prices: A Comparative Analysis of ARMA and GARCH Approaches (will be made public 00:00 18th December)**](https://github.com/Stochastic1017/Walmart-Stock-Forecasting)
+- [**Modeling and Forecasting Walmart Stock Prices: A Comparative Analysis of ARMA and GARCH Approaches**](https://github.com/Stochastic1017/Walmart-Stock-Forecasting)
     - Leveraged ARIMA and GARCH models using **tseries** and **fGarch** in **R** to analyze Walmart stock price volatility.
     -  Developed and validated ensemble models through residual diagnostics and forecast evaluation.
     -  Achieved RMSE of $\approx$ \$ 0.01 for log-returns and $\approx$ \$ 1.17 for closing prices on unseen 10-day forecast and actual prices.
