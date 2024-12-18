@@ -7,7 +7,7 @@
     </p>
   </div>
   <a href="https://github.com/Stochastic1017">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=4CAF50&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=800&height=80&lines=Advanced+Statistical+Modeling+and+Inferences;Bayesian+Statistics;Statistical+Learning;Machine+Learning+and+Statistical+Pattern+Classification;Deep+Learning+and+Generative+Models;Linear+Randomized+Algorithms;Linear+Optimization;Dynamical+Systems+Stochastic+Modeling+and+Prediction;Financial+Statistics;Statistical+Computing;Cloud+Computing;Combinatorics;Real+Analysis,+Modern+Algebra,+and+Topology" alt="Typing Animation" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=4CAF50&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=800&height=80&lines=Advanced+Statistical+Modeling+and+Inferences;Bayesian+Statistics;Statistical+Learning;Machine+Learning+and+Statistical+Pattern+Classification;Deep+Learning+and+Generative+Models;Linear+Randomized+Algorithms;Linear+Optimization;Dynamical+Systems+Stochastic+Modeling+and+Prediction;Financial+Statistics;Statistical+Computing;Cloud+Computing;Real+Analysis,+Modern+Algebra,+and+Topology" alt="Typing Animation" />
   </a>
 </div>
 
