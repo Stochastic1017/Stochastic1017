@@ -38,7 +38,7 @@
   </tr>
 </table>
 
-## My Projects
+## Project Portfolio
 
 Here are some of my notable projects:
 
@@ -81,7 +81,7 @@ Here are some of my notable projects:
     - Implemented an ensemble gradient boosting model with fine-tuned hyper-parameters using **Scikit-Learn**.
     - Achieved approximately *80%* in accuracy, precision, recall, and AUC metrics.
 
-## My Technical Skills
+## Technical Skills
 
 ### **Programming Languages**
 <p align="left">
